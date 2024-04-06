@@ -1,4 +1,4 @@
-package java;
+package javinha;
 public class Informacoes {
     private String familia;
     private String genero;

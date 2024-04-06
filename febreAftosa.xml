@@ -14,4 +14,19 @@
             <fonteSecundaria>https://brasilescola.uol.com.br/doencas/febre-aftosa.htm</fonteSecundaria>
         </curiosidades>
     </doenca>
+    <doenca>
+        <nome>Brucelose Bovina</nome>
+        <informacoes>
+            <familia>Brucellaceae</familia>
+            <genero>Brucella</genero>
+            <reino>Bacteria</reino>
+            <anoDescoberta>1859</anoDescoberta>
+        </informacoes>
+        <curiosidades>
+            <resumo>"A brucelose bovina é uma doença infecciosa causada pela bactéria Brucella abortus, que afeta principalmente bovinos, mas também pode infectar outros animais, incluindo suínos, ovinos, caprinos e equinos, além de representar um risco para a saúde humana. É caracterizada por causar abortos, redução da fertilidade, retenção de placenta e infecções nas articulações. A brucelose bovina é uma preocupação para a indústria pecuária devido às perdas econômicas associadas e ao risco de transmissão para humanos através do consumo de produtos lácteos não pasteurizados."
+            </resumo>
+            <fontePrimaria>https://www.agrolink.com.br/brucelose/</fontePrimaria>
+            <fonteSecundaria>https://www.sanidadanimal.info/brucelosis-bovina/</fonteSecundaria>
+        </curiosidades>
+    </doenca>
 </doencas>

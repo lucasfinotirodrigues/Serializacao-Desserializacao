@@ -1,4 +1,4 @@
-package java;
+package javinha;
 
 public class Doenca {
     private String nome;
