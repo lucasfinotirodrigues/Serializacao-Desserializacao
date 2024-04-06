@@ -1,0 +1,17 @@
+<doencas>
+    <doenca>
+        <nome>Febre Aftosa</nome>
+        <informacoes>
+            <familia>Picornaviridae</familia>
+            <genero>Aphthovirus</genero>
+            <reino>Virus</reino>
+            <anoDescoberta>1895</anoDescoberta>
+        </informacoes>
+        <curiosidades>
+            <resumo>"A febre aftosa é uma doença altamente contagiosa desencadeada por um vírus. Ela afeta bovinos, ovinos, caprinos, suínos, camelídeos, elefantes e ruminantes silvestres. Em casos raros, o ser humano pode também ser acometido pela doença. A febre aftosa ocorre em diferentes partes do mundo, sendo conhecidos casos na África, parte da Europa, Ásia, e em grande parte da América do Sul, incluindo o Brasil. Vale salientar, no entanto, que o último caso de febre aftosa no Brasil foi registrado em 2006."
+            </resumo>
+            <fontePrimaria>https://www.defesa.agricultura.sp.gov.br/educacao-sanitaria/files/cards/link_doencas_aftosa.pdf</fontePrimaria>
+            <fonteSecundaria>https://brasilescola.uol.com.br/doencas/febre-aftosa.htm</fonteSecundaria>
+        </curiosidades>
+    </doenca>
+</doencas>
